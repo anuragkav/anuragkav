@@ -1,28 +1,33 @@
 <!-- TIP: Rename this repo to exactly your GitHub username to make it your profile README -->
 
-<h1 align="left">Hi, I'm YOUR NAME 👋</h1>
+<h1 align="left">Hi, I'm Anurag Kavishwar👋</h1>
 
 <p>
-  Software Engineer • Building things with TypeScript, React, Node.js.
-  I enjoy developer experience, performance, and clean architecture.
+  University of California, Berkeley — B.A. Applied Mathematics; B.S. Data Science 
+
+  Currently: Building an AI deep-research algorithm for equities at 14Gate Investments
+
+💼 Experience
+
+  Dev · 14Gate Investments — May 2025 – Present
+
+  Founder · 14Gate Advising — Mar 2025 – Present
+
+  SWE Intern · Amazon — May 2025 – Aug 2025
+
+  Data Science · Emulate — Dec 2023 – Sep 2025
+
+  Contract Consultant · Tesla — Oct 2024 – Dec 2024
+
+  Investments, Strategy & Data Science Intern · MLSC Capital — Jun 2024 – Aug 2024
 </p>
 
 <!-- Quick links (optional) -->
 <p>
-  <a href="mailto:you@domain.com">Email</a> •
-  <a href="https://your-site.example">Website</a> •
-  <a href="https://www.linkedin.com/in/your-handle">LinkedIn</a> •
-  <a href="https://twitter.com/your-handle">X/Twitter</a>
+  <a href="anuragkavishwar27@gmail.com">Email</a> •
+  <a href="14gateadvising.com">Website</a> •
+  <a href="https://www.linkedin.com/in/akavishwar/">LinkedIn</a> •
 </p>
-
----
-
-### 🧠 About me (super short)
-- Working on: concise note — e.g., "design systems & DX tooling."
-- Learning: concise note — e.g., "Rust for CLIs."
-- Fun: concise note — e.g., "biking & coffee nerd."
-
----
 
 ### 🧰 Things I code with
 
@@ -35,29 +40,21 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=white" />
   <img alt="D3.js" src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-### ⏱️ This week I spent my time on
-
-<!--WAKATIME:START-->
-_Stats are loading… (first update usually runs within a few minutes)_
-<!--WAKATIME:END-->
-
-> Powered by an automated workflow that updates this section daily.
-
----
-
-### 📈 Small dashboard (optional ideas)
-- Recent PRs, stars, or blog posts
-- Current focus / roadmap bullets
-
----
-
-*Last updated: <!--LAST_UPDATED-->never<!--/LAST_UPDATED-->*
