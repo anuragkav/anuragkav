@@ -22,12 +22,6 @@
   Investments, Strategy & Data Science Intern · MLSC Capital — Jun 2024 – Aug 2024
 </p>
 
-<!-- Quick links (optional) -->
-<p>
-  <a href="anuragkavishwar27@gmail.com">Email</a> •
-  <a href="14gateadvising.com">Website</a> •
-  <a href="https://www.linkedin.com/in/akavishwar/">LinkedIn</a> •
-</p>
 
 ### 🧰 Things I code with
 
