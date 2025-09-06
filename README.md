@@ -23,10 +23,7 @@
 </p>
 
 
-### 🧰 Things I code with
-
-<!-- Use shields.io badges; keep the list tidy and short -->
-### 🧰 Things I code with
+### 🧰 Things I code with/skills
 
 <!-- shields.io badges; single <p> block by request -->
 <p>
