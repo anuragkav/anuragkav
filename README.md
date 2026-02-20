@@ -1,29 +1,7 @@
 <!-- TIP: Rename this repo to exactly your GitHub username to make it your profile README -->
 
-<h1 align="left">Hi, I'm Anurag Kavishwar👋</h1>
+<h1 align="left">Anurag Kavishwar</h1>
 
-<p>
-  University of California, Berkeley — B.A. Applied Mathematics; B.S. Data Science 
-
-  Currently: Building an AI deep-research algorithm for equities at 14Gate Investments
-
-💼 Experience
-
-  Dev · 14Gate Investments — May 2025 – Present
-
-  Founder · 14Gate Advising — Mar 2025 – Present
-
-  SWE Intern · Amazon — May 2025 – Aug 2025
-
-  Data Science · Emulate — Dec 2023 – Sep 2025
-
-  Contract Consultant · Tesla — Oct 2024 – Dec 2024
-
-  Investments, Strategy & Data Science Intern · MLSC Capital — Jun 2024 – Aug 2024
-</p>
-
-
-### 🧰 Things I code with/skills
 
 <!-- shields.io badges; single <p> block by request -->
 <p>
